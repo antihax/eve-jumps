@@ -1,5 +1,6 @@
 # eve-jumps
 Provides a mysql table of jumps from system to system in eve online.
+This is not guaranteed to be 100% complete or accurate but "it works for me".
 
 download: https://github.com/antihax/eve-jumps/releases/download/1/jumps.zip
 
